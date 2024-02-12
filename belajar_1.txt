@@ -1,4 +1,5 @@
 Rencana Belajar git
 - Membuat file sederhana dengan file text
 - Membuat Program Sederhana HTML, CSS dan JAVASCRIPT
+- Membuat Web menggunakan Framework Laravel
 - Membuat Web berbasis Geografi
